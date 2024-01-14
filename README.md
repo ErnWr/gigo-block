@@ -1,16 +1,9 @@
 # sensors
-
-智高提供的積木方塊。
-Blocks provided by Gigo。
-
-## License
-
-* MIT
-
-
-## Supported targets
-
+BY RANDOMERN
 
 ```package
-sensors=github:gigotoys/gigo-block
+JUST COPY THIS and paste it on extetensions of makercode: github:gigotoys/gigo-block
+
+dont copy all of this: sensors=github:gigotoys/gigo-block
+IT WONT WORK
 ```
